@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://nsantos@localhost:8022/home/nsantos/.virtualenvs/bin/python" name="ssh://nsantos@localhost:8022">
+        <fileTransfer host="localhost" port="8022" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="8022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
