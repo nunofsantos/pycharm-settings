@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Web Deployment" shouldLog="false" />
+    <notification groupId="Web Deployment" displayType="NONE" />
   </component>
 </application>
