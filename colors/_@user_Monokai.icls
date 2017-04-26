@@ -4,10 +4,12 @@
     <property name="created">2017-03-30T01:24:44</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-04-05T14:09:47</property>
+    <property name="modified">2017-04-25T23:58:22</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
