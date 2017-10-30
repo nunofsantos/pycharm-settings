@@ -6,8 +6,8 @@
           <option name="port" value="8022" />
         </fileTransfer>
       </webServer>
-      <webServer id="634cf589-7b3e-4d67-9d0f-5f065ab0ea3a" name="RaspberryPi" url="http://raspberrypi.local">
-        <fileTransfer host="raspberrypi.local" port="22" accessType="SFTP">
+      <webServer id="634cf589-7b3e-4d67-9d0f-5f065ab0ea3a" name="RaspberryPi" url="http://172.31.0.131">
+        <fileTransfer host="172.31.0.131" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
